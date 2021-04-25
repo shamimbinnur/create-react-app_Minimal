@@ -1,5 +1,5 @@
 import React from 'react-dom'
-import './app.css'
+import './App.css'
 import Header from './components/Header'
 
 const App = ()=>{
